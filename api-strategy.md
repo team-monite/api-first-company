@@ -8,7 +8,7 @@ Monite is an [API-First company](https://swagger.io/resources/articles/adopting-
 
 As a result of this approach, whenever we introduce new capabilities to our product, we always begin with the API – considering its appearance, design for optimal developer experience with our partners, coherence with our overall API design, and more. Only after finalizing this vision and requirements do we proceed with implementing the API changes.
 
-##2. We treat API as a Product
+## 2. We treat API as a Product
 
 As an API-First company, we place significant emphasis on the quality of our API, its development process, usage by our partners, and continuous improvement based on their feedback. This approach leads us to treat our [API as a Product](https://nordicapis.com/what-is-an-api-as-a-product/) in itself. It is a meta-product that combines the efforts of all teams, representing a single API integration layer.
 
